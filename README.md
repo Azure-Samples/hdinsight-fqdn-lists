@@ -1,10 +1,10 @@
 ---
 page_type: sample
 languages:
-- 
+- json
 products:
 - azure
-description: "This repository contains json files with a full list of Fully Qualified Domain Names for properly configuring your own virtual network appliances to route traffic in Azure virtual networks."
+description: "JSON files with a list of Fully Qualified Domain Names for configuring your own virtual network appliances to route traffic in Azure virtual networks."
 urlFragment: hdinsight-fqdn-lists
 ---
 
