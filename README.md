@@ -3,7 +3,8 @@ page_type: sample
 languages:
 - json
 products:
-- azure
+  - azure
+  - azure-hdinsight
 description: "JSON files with a list of Fully Qualified Domain Names for configuring your own virtual network appliances to route traffic in Azure virtual networks."
 urlFragment: hdinsight-fqdn-lists
 ---
