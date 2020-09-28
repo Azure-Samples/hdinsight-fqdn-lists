@@ -887,4 +887,12 @@ https://prod.warmpath.msftcloudes.com,
 https://gcs.prod.monitoring.core.windows.net,
 https://login.microsoftonline.com,
 https://login.windows.net,
-https://aadcdn.msftauth.net
+https://aadcdn.msftauth.net,
+https://hdirelay-euwe-2f92c78c-0.servicebus.windows.net,
+https://hdirelay-euwe-2f92c78c-1.servicebus.windows.net,
+https://hdirelay-euwe-5e254307-0.servicebus.windows.net,
+https://hdirelay-euwe-5e254307-1.servicebus.windows.net,
+https://hdirelay-euwe-8360c904-0.servicebus.windows.net,
+https://hdirelay-euwe-8360c904-1.servicebus.windows.net,
+https://hdirelay-euwe-ae844c39-0.servicebus.windows.net,
+https://hdirelay-euwe-ae844c39-1.servicebus.windows.net

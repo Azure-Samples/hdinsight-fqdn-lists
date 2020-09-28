@@ -236,4 +236,6 @@ https://prod.warmpath.msftcloudes.com,
 https://gcs.prod.monitoring.core.windows.net,
 https://login.microsoftonline.com,
 https://login.windows.net,
-https://aadcdn.msftauth.net
+https://aadcdn.msftauth.net,
+https://hdirelay-safn-21754df6-0.servicebus.windows.net,
+https://hdirelay-safn-21754df6-1.servicebus.windows.net
