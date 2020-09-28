@@ -666,4 +666,10 @@ https://prod.warmpath.msftcloudes.com,
 https://gcs.prod.monitoring.core.windows.net,
 https://login.microsoftonline.com,
 https://login.windows.net,
-https://aadcdn.msftauth.net
+https://aadcdn.msftauth.net,
+https://hdirelay-usce-11000a0d-0.servicebus.windows.net,
+https://hdirelay-usce-11000a0d-1.servicebus.windows.net,
+https://hdirelay-usce-96760e93-0.servicebus.windows.net,
+https://hdirelay-usce-96760e93-1.servicebus.windows.net,
+https://hdirelay-usce-ce832044-0.servicebus.windows.net,
+https://hdirelay-usce-ce832044-1.servicebus.windows.net

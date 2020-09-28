@@ -154,4 +154,6 @@ https://prod.warmpath.msftcloudes.com,
 https://gcs.prod.monitoring.core.windows.net,
 https://login.microsoftonline.com,
 https://login.windows.net,
-https://aadcdn.msftauth.net
+https://aadcdn.msftauth.net,
+https://hdirelay-jpwe-9df7d9d7-0.servicebus.windows.net,
+https://hdirelay-jpwe-9df7d9d7-1.servicebus.windows.net
