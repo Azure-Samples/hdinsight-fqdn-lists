@@ -1333,4 +1333,5 @@ https://hdirelay-usea-abe48551-1.servicebus.windows.net,
 https://hdirelay-usea-ed2f2b83-0.servicebus.windows.net,
 https://hdirelay-usea-ed2f2b83-1.servicebus.windows.net,
 https://hdirelay-usea-fc32cbf3-0.servicebus.windows.net,
-https://hdirelay-usea-fc32cbf3-1.servicebus.windows.net
+https://hdirelay-usea-fc32cbf3-1.servicebus.windows.net,
+https://*-sb.servicebus.windows.net

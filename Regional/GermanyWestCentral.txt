@@ -238,4 +238,5 @@ https://login.microsoftonline.com,
 https://login.windows.net,
 https://aadcdn.msftauth.net,
 https://hdirelay-gewc-d1d09b34-0.servicebus.windows.net,
-https://hdirelay-gewc-d1d09b34-1.servicebus.windows.net
+https://hdirelay-gewc-d1d09b34-1.servicebus.windows.net,
+https://*-sb.servicebus.windows.net

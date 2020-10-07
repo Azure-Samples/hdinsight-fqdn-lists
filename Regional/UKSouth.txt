@@ -135,4 +135,5 @@ https://login.microsoftonline.com,
 https://login.windows.net,
 https://aadcdn.msftauth.net,
 https://hdirelay-ukso-dc92e8d2-0.servicebus.windows.net,
-https://hdirelay-ukso-dc92e8d2-1.servicebus.windows.net
+https://hdirelay-ukso-dc92e8d2-1.servicebus.windows.net,
+https://*-sb.servicebus.windows.net

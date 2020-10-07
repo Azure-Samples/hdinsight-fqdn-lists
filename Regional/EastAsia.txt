@@ -149,4 +149,5 @@ https://login.microsoftonline.com,
 https://login.windows.net,
 https://aadcdn.msftauth.net,
 https://hdirelay-asea-23419f9b-0.servicebus.windows.net,
-https://hdirelay-asea-23419f9b-1.servicebus.windows.net
+https://hdirelay-asea-23419f9b-1.servicebus.windows.net,
+https://*-sb.servicebus.windows.net
