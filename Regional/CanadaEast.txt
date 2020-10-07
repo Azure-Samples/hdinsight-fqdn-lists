@@ -238,4 +238,5 @@ https://login.microsoftonline.com,
 https://login.windows.net,
 https://aadcdn.msftauth.net,
 https://hdirelay-caea-7ec0e1e0-0.servicebus.windows.net,
-https://hdirelay-caea-7ec0e1e0-1.servicebus.windows.net
+https://hdirelay-caea-7ec0e1e0-1.servicebus.windows.net,
+https://*-sb.servicebus.windows.net

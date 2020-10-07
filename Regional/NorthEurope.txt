@@ -491,4 +491,5 @@ https://hdirelay-euno-7f078a4c-1.servicebus.windows.net,
 https://hdirelay-euno-7f58b37c-0.servicebus.windows.net,
 https://hdirelay-euno-7f58b37c-1.servicebus.windows.net,
 https://hdirelay-euno-c5ff09eb-0.servicebus.windows.net,
-https://hdirelay-euno-c5ff09eb-1.servicebus.windows.net
+https://hdirelay-euno-c5ff09eb-1.servicebus.windows.net,
+https://*-sb.servicebus.windows.net

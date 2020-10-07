@@ -555,4 +555,5 @@ https://aadcdn.msftauth.net,
 https://hdirelay-usw2-1bfec58d-0.servicebus.windows.net,
 https://hdirelay-usw2-1bfec58d-1.servicebus.windows.net,
 https://hdirelay-usw2-f0b2135d-0.servicebus.windows.net,
-https://hdirelay-usw2-f0b2135d-1.servicebus.windows.net
+https://hdirelay-usw2-f0b2135d-1.servicebus.windows.net,
+https://*-sb.servicebus.windows.net

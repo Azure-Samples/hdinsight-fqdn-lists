@@ -891,4 +891,5 @@ https://hdirelay-uswe-53b34899-1.servicebus.windows.net,
 https://hdirelay-uswe-81d9bf8c-0.servicebus.windows.net,
 https://hdirelay-uswe-81d9bf8c-1.servicebus.windows.net,
 https://hdirelay-uswe-b3e5be4a-0.servicebus.windows.net,
-https://hdirelay-uswe-b3e5be4a-1.servicebus.windows.net
+https://hdirelay-uswe-b3e5be4a-1.servicebus.windows.net,
+https://*-sb.servicebus.windows.net

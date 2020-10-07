@@ -672,4 +672,5 @@ https://hdirelay-usce-11000a0d-1.servicebus.windows.net,
 https://hdirelay-usce-96760e93-0.servicebus.windows.net,
 https://hdirelay-usce-96760e93-1.servicebus.windows.net,
 https://hdirelay-usce-ce832044-0.servicebus.windows.net,
-https://hdirelay-usce-ce832044-1.servicebus.windows.net
+https://hdirelay-usce-ce832044-1.servicebus.windows.net,
+https://*-sb.servicebus.windows.net

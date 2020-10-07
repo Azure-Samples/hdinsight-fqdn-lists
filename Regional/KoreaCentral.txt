@@ -138,4 +138,5 @@ https://login.microsoftonline.com,
 https://login.windows.net,
 https://aadcdn.msftauth.net,
 https://hdirelay-koce-644a4242-0.servicebus.windows.net,
-https://hdirelay-koce-644a4242-1.servicebus.windows.net
+https://hdirelay-koce-644a4242-1.servicebus.windows.net,
+https://*-sb.servicebus.windows.net
