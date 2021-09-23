@@ -239,4 +239,5 @@ https://login.windows.net,
 https://aadcdn.msftauth.net,
 https://hdirelay-uaen-8455a4aa-0.servicebus.windows.net,
 https://hdirelay-uaen-8455a4aa-1.servicebus.windows.net,
-https://*-sb.servicebus.windows.net
+https://*-sb.servicebus.windows.net,
+https://hdinsight-oms.azureedge.net
