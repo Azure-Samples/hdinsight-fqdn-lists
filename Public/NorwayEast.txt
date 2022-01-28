@@ -1,0 +1,10 @@
+https://ac01hprod1resrcnoea.blob.core.windows.net,
+https://ac01hprod1resrcnoea.table.core.windows.net,
+https://aj01hprod1resrcnoea.blob.core.windows.net,
+https://aj01hprod1resrcnoea.table.core.windows.net,
+https://aq01hprod1resrcnoea.blob.core.windows.net, 
+https://aq01hprod1resrcnoea.table.core.windows.net,
+https://ax01hprod1resrcnoea.blob.core.windows.net, 
+https://ax01hprod1resrcnoea.table.core.windows.net,
+https://bc02hprod1resrcnoea.blob.core.windows.net,
+https://bc02hprod1resrcnoea.table.core.windows.net
