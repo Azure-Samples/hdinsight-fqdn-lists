@@ -1224,11 +1224,16 @@
     "https://login.chinacloudapi.cn",
     "https://login.microsoftonline.cn",
     "https://aadcdn.msftauth.net",
-    "https://mooncake.warmpath.chinacloudapi.cn", 
+    "https://mooncake.warmpath.chinacloudapi.cn",
     "https://hdiconfigactions.blob.core.windows.net",
     "https://hdiconfigactions-secondary.blob.core.windows.net",
     "https://*-sb.servicebus.chinacloudapi.cn",
     "https://maupdateaccountbjb.blob.core.chinacloudapi.cn",
-    "https://hdinsight-oms.azureedge.net"
+    "https://hdinsight-oms.azureedge.net",
+    "https://hdimcautoscalev2.queue.core.windows.net",
+    "https://hdimcautoscalev2chea2.queue.core.windows.net",
+    "https://hdimcautoscalev2chea3.queue.core.windows.net",
+    "https://hdimcautoscalev2chno2.queue.core.windows.net",
+    "https://hdimcautoscalev2chno3.queue.core.windows.net"
   ]
 }

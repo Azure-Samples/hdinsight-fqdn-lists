@@ -937,4 +937,5 @@ https://hdirelay-euwe-8360c904-1.servicebus.windows.net,
 https://hdirelay-euwe-ae844c39-0.servicebus.windows.net,
 https://hdirelay-euwe-ae844c39-1.servicebus.windows.net,
 https://*-sb.servicebus.windows.net,
-https://hdinsight-oms.azureedge.net
+https://hdinsight-oms.azureedge.net,
+https://hdiprodautoscalev2euwe.queue.core.windows.net

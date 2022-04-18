@@ -140,4 +140,5 @@ https://aadcdn.msftauth.net,
 https://hdirelay-koso-783b9e11-0.servicebus.windows.net,
 https://hdirelay-koso-783b9e11-1.servicebus.windows.net,
 https://*-sb.servicebus.windows.net,
-https://hdinsight-oms.azureedge.net
+https://hdinsight-oms.azureedge.net,
+https://hdiprodautoscalev2koso.queue.core.windows.net

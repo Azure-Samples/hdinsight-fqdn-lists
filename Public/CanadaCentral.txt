@@ -250,4 +250,5 @@ https://aadcdn.msftauth.net,
 https://hdirelay-cace-c8845df8-0.servicebus.windows.net,
 https://hdirelay-cace-c8845df8-1.servicebus.windows.net,
 https://*-sb.servicebus.windows.net,
-https://hdinsight-oms.azureedge.net
+https://hdinsight-oms.azureedge.net,
+https://hdiprodautoscalev2cace.queue.core.windows.net

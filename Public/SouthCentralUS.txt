@@ -351,4 +351,5 @@ https://hdinsight-oms.azureedge.net,
 https://hdirelay-0fd3g8d9-0.servicebus.windows.net,
 https://hdirelay-0fd3g8d9-1.servicebus.windows.net,
 https://hdirelay-ussc-7aa01fe9-0.servicebus.windows.net,
-https://hdirelay-ussc-7aa01fe9-1.servicebus.windows.net
+https://hdirelay-ussc-7aa01fe9-1.servicebus.windows.net,
+https://hdiprodautoscalev2ussc.queue.core.windows.net

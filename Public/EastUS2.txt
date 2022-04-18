@@ -1353,4 +1353,5 @@ https://hdirelay-usea2-b4c77f90-1.servicebus.windows.net,
 https://hdirelay-usea2-d1fc45d2-0.servicebus.windows.net,
 https://hdirelay-usea2-d1fc45d2-1.servicebus.windows.net,
 https://*-sb.servicebus.windows.net,
-https://hdinsight-oms.azureedge.net
+https://hdinsight-oms.azureedge.net,
+https://hdiprodautoscalev2.queue.core.windows.net

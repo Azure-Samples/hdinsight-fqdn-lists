@@ -137,4 +137,5 @@ https://aadcdn.msftauth.net,
 https://hdirelay-ukwe-005659c3-0.servicebus.windows.net,
 https://hdirelay-ukwe-005659c3-1.servicebus.windows.net,
 https://*-sb.servicebus.windows.net,
-https://hdinsight-oms.azureedge.net
+https://hdinsight-oms.azureedge.net,
+https://hdiprodautoscalev2ukwe.queue.core.windows.net

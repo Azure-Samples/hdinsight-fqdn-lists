@@ -260,4 +260,5 @@ https://hdiconfigactions.blob.core.windows.net,
 https://hdiconfigactions-secondary.blob.core.windows.net,
 https://*-sb.servicebus.chinacloudapi.cn,
 https://maupdateaccountbjb.blob.core.chinacloudapi.cn,
-https://hdinsight-oms.azureedge.net
+https://hdinsight-oms.azureedge.net,
+https://hdimcautoscalev2chno2.queue.core.windows.net

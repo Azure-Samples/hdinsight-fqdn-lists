@@ -151,4 +151,5 @@ https://aadcdn.msftauth.net,
 https://hdirelay-asea-23419f9b-0.servicebus.windows.net,
 https://hdirelay-asea-23419f9b-1.servicebus.windows.net,
 https://*-sb.servicebus.windows.net,
-https://hdinsight-oms.azureedge.net
+https://hdinsight-oms.azureedge.net,
+https://hdiprodautoscalev2asea.queue.core.windows.net

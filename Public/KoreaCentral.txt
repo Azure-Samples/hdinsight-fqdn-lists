@@ -150,4 +150,5 @@ https://aadcdn.msftauth.net,
 https://hdirelay-koce-644a4242-0.servicebus.windows.net,
 https://hdirelay-koce-644a4242-1.servicebus.windows.net,
 https://*-sb.servicebus.windows.net,
-https://hdinsight-oms.azureedge.net
+https://hdinsight-oms.azureedge.net,
+https://hdiprodautoscalev2koce.queue.core.windows.net
