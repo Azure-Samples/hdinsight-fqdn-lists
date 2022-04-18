@@ -55,4 +55,4 @@ https://hdiconfigactions-secondary.blob.core.windows.net,
 https://*-sb.servicebus.chinacloudapi.cn,
 https://maupdateaccountbjb.blob.core.chinacloudapi.cn,
 https://hdinsight-oms.azureedge.net,
-https://hdimcautoscalev2chea3.queue.core.windows.net
+https://hdimcautoscalev2chea3.queue.core.chinacloudapi.cn

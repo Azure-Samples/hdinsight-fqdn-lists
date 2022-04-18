@@ -1230,10 +1230,10 @@
     "https://*-sb.servicebus.chinacloudapi.cn",
     "https://maupdateaccountbjb.blob.core.chinacloudapi.cn",
     "https://hdinsight-oms.azureedge.net",
-    "https://hdimcautoscalev2.queue.core.windows.net",
-    "https://hdimcautoscalev2chea2.queue.core.windows.net",
-    "https://hdimcautoscalev2chea3.queue.core.windows.net",
-    "https://hdimcautoscalev2chno2.queue.core.windows.net",
-    "https://hdimcautoscalev2chno3.queue.core.windows.net"
+    "https://hdimcautoscalev2.queue.core.chinacloudapi.cn",
+    "https://hdimcautoscalev2chea2.queue.core.chinacloudapi.cn",
+    "https://hdimcautoscalev2chea3.queue.core.chinacloudapi.cn",
+    "https://hdimcautoscalev2chno2.queue.core.chinacloudapi.cn",
+    "https://hdimcautoscalev2chno3.queue.core.chinacloudapi.cn"
   ]
 }
