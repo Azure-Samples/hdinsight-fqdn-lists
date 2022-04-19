@@ -893,4 +893,5 @@ https://hdirelay-uswe-81d9bf8c-1.servicebus.windows.net,
 https://hdirelay-uswe-b3e5be4a-0.servicebus.windows.net,
 https://hdirelay-uswe-b3e5be4a-1.servicebus.windows.net,
 https://*-sb.servicebus.windows.net,
-https://hdinsight-oms.azureedge.net
+https://hdinsight-oms.azureedge.net,
+https://hdiprodautoscalev2uswe.queue.core.windows.net
