@@ -241,4 +241,10 @@ https://hdirelay-caea-7ec0e1e0-0.servicebus.windows.net,
 https://hdirelay-caea-7ec0e1e0-1.servicebus.windows.net,
 https://*-sb.servicebus.windows.net,
 https://hdinsight-oms.azureedge.net,
-https://hdiprodautoscalev2caea.queue.core.windows.net
+https://hdiprodautoscalev2caea.queue.core.windows.net,
+https://azglobal-black.azglobal.metrics.nsatc.net,
+https://azglobal-red.azglobal.metrics.nsatc.net,
+https://azglobal-black.prod.microsoftmetrics.com,
+https://azglobal-red.prod.microsoftmetrics.com,
+https://docdb-black.prod.microsoftmetrics.com,
+https://docdb-red.prod.microsoftmetrics.com

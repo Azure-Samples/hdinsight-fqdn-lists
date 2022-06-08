@@ -13410,6 +13410,12 @@
     "https://hdiprodautoscalev2usw2.queue.core.windows.net",
     "https://hdiprodautoscalev2usw3.queue.core.windows.net",
     "https://hdiprodautoscalev2.queue.core.windows.net",
-    "https://hdiprodautoscalev2euap.queue.core.windows.net"
+    "https://hdiprodautoscalev2euap.queue.core.windows.net",
+	"https://azglobal-black.azglobal.metrics.nsatc.net",
+	"https://azglobal-red.azglobal.metrics.nsatc.net",
+	"https://azglobal-black.prod.microsoftmetrics.com",
+	"https://azglobal-red.prod.microsoftmetrics.com",
+	"https://docdb-black.prod.microsoftmetrics.com",
+	"https://docdb-red.prod.microsoftmetrics.com"
   ]
 }

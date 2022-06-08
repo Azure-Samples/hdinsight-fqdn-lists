@@ -1354,4 +1354,10 @@ https://hdirelay-usea2-d1fc45d2-0.servicebus.windows.net,
 https://hdirelay-usea2-d1fc45d2-1.servicebus.windows.net,
 https://*-sb.servicebus.windows.net,
 https://hdinsight-oms.azureedge.net,
-https://hdiprodautoscalev2.queue.core.windows.net
+https://hdiprodautoscalev2.queue.core.windows.net,
+https://azglobal-black.azglobal.metrics.nsatc.net,
+https://azglobal-red.azglobal.metrics.nsatc.net,
+https://azglobal-black.prod.microsoftmetrics.com,
+https://azglobal-red.prod.microsoftmetrics.com,
+https://docdb-black.prod.microsoftmetrics.com,
+https://docdb-red.prod.microsoftmetrics.com
