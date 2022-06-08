@@ -578,4 +578,10 @@ https://hdirelay-usw2-f0b2135d-0.servicebus.windows.net,
 https://hdirelay-usw2-f0b2135d-1.servicebus.windows.net,
 https://*-sb.servicebus.windows.net,
 https://hdinsight-oms.azureedge.net,
-https://hdiprodautoscalev2usw2.queue.core.windows.net
+https://hdiprodautoscalev2usw2.queue.core.windows.net,
+https://azglobal-black.azglobal.metrics.nsatc.net,
+https://azglobal-red.azglobal.metrics.nsatc.net,
+https://azglobal-black.prod.microsoftmetrics.com,
+https://azglobal-red.prod.microsoftmetrics.com,
+https://docdb-black.prod.microsoftmetrics.com,
+https://docdb-red.prod.microsoftmetrics.com
